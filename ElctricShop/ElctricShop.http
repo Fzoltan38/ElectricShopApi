@@ -1,0 +1,6 @@
+@ElctricShop_HostAddress = http://localhost:5127
+
+GET {{ElctricShop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
